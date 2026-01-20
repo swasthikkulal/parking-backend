@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const mongoURL = "mongodb://localhost:27017/parking"; //path of your mongoDB database
+const mongoURL = "mongodb+srv://swasthik126_db_user:wOKe7LOCdxXnYhzf@instagram.xnjjk94.mongodb.net/parking"
 
 const mongodbconnection = async()=>{
     try{
